@@ -38,8 +38,8 @@ Feel free to explore my other repositories!
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/harshit-chaudhary-43aab5220)
-- [Twitter](https://x.com/chaudhary__2002)
+- LinkedIn-www.linkedin.com/in/harshit-chaudhary-43aab5220
+-  Twitter-https://x.com/chaudhary__2002
 
 ---
 
