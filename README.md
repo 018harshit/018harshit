@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 - 🌱 I’m currently learning cloud technologies like AWS and exploring data structures and algorithms to improve my problem-solving skills.
 - 👯 I’m looking to collaborate on open-source projects, especially in the areas of web development, machine learning, and automation.
 - 💬 Ask me about anything related to JavaScript, Python, web development, or tech in general. I’m always happy to help!
-- 📫 How to reach me: You can contact me via email at harshitchaudhary2608@gmail.com or find me on [LinkedIn](www.linkedin.com/in/harshit-chaudhary-43aab5220).
+- 📫 How to reach me: You can contact me via email at harshitchaudhary2608@gmail.com or find me on www.linkedin.com/in/harshit-chaudhary-43aab5220
 - ⚡ Fun fact: When I’m not coding, you can find me playing chess, reading tech blogs.I also enjoy traveling and exploring new cultures. My dream is to visit every continent while working remotely as a 
      developer!"
 
